@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/healthcare-appointment-management-system-4442-4465/frontend_client"
+}
